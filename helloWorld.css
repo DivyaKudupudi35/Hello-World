@@ -1,0 +1,23 @@
+* {
+  font-family: Consolas;
+}
+body {
+  background-color: rgb(65, 233, 196);
+}
+#message {
+  font-size: 72pt;
+  text-align: center;
+  color: rgb(252, 236, 22);
+}
+#buttonEnv {
+  display:grid;
+  justify-content: center;
+  margin-top: 2in;
+}
+#secretButton {
+  font-family: 'Comic Sans MS';
+  font-size: 36pt;
+  background-color:rgb(168, 0, 0);
+  color:white;
+  padding:50px;
+}
