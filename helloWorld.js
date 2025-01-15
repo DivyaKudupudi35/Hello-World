@@ -5,5 +5,5 @@ function loadText(id, message) {
 
 //Runs on page load
 document.querySelector('#secretButton').addEventListener("click", () => {
-    loadText('#message', 'Hello World!');
+    loadText('#message', 'Hello World Divya! ');
 });
